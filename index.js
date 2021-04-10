@@ -36,5 +36,6 @@ module.exports = {
         }
     },
     locale: Locale,
-    setCustomRules: (rules) => { expValidator.setCustomRules(rules) }
+    setCustomRules: (rules) => { expValidator.setCustomRules(rules) },
+    validator: expValidator
 }
