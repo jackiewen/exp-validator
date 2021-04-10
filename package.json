@@ -13,5 +13,12 @@
     "lodash": "^4.17.21",
     "sprintf-js": "^1.1.2",
     "validator": "^13.5.2"
-  }
+  },
+  "keywords": [
+    "validator",
+    "nodejs",
+    "express"
+  ],
+  "homepage": "https://github.com/jackiewen/exp-validator",
+  "url": "https://github.com/jackiewen/exp-validator"
 }
