@@ -1,6 +1,6 @@
 {
   "name": "@vqq/exp-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Validator for expressJS",
   "main": "index.js",
   "scripts": {
