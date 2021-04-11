@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/jackiewen/exp-validator.git)
 
 Exp-Validtor is a wrapper for validator package to use like a Express middleware.
+[Here](https://www.npmjs.com/package/validator) is a list of the validators currently available.
 
 ## Features
 
